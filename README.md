@@ -5,9 +5,13 @@ Bu projede Evrişimli Sinir Ağları kullanılarak 10 farklı hayvan türünü s
 Projenin Temel Adımları
 
 1- Gerekli Kütüphanelerin Eklenmesi
+
 2- Veriyi Okuma Ve İşleme
+
 3-CNN Modelinin Oluşturulması
+
 4-Görüntü Manipülasyonu Ve Renk Sabitliği Algoritması
+
 5-Sonuçların Karşılaştırılması
 
 Kaggle : https://www.kaggle.com/code/yusufsahin1/g-r-nt-leme-bootcamp
