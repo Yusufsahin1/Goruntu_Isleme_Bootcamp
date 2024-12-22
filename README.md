@@ -8,10 +8,10 @@ Projenin Temel Adımları
 
 2- Veriyi Okuma Ve İşleme
 
-3-CNN Modelinin Oluşturulması
+3- CNN Modelinin Oluşturulması
 
-4-Görüntü Manipülasyonu Ve Renk Sabitliği Algoritması
+4- Görüntü Manipülasyonu Ve Renk Sabitliği Algoritması
 
-5-Sonuçların Karşılaştırılması
+5- Sonuçların Karşılaştırılması
 
 Kaggle : https://www.kaggle.com/code/yusufsahin1/g-r-nt-leme-bootcamp
