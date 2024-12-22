@@ -1,4 +1,4 @@
-# Goruntu_Isleme_Bootcamp
+# Aygaz - Global AI HUB Görüntü İşleme Bootcamp
 
 Bu projede Evrişimli Sinir Ağları kullanılarak 10 farklı hayvan türünü sınıflandıran bir model oluşturulmuş, sonrasında ise farklı ışıklar ile manipüle edilmiş görüntüler üzerinde bu modelin ne kadar başarılı olduğu test edilmiş ve model performansında bir düşüş olması durumunda görüntü işleme yöntemleri ile bu sorunun nasıl çözülebileceği gösterilmiştir.
 
